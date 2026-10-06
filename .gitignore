@@ -1,0 +1,7 @@
+.build/
+build/
+dist/
+.swiftpm/
+*.dmg
+*.raw.mov
+.DS_Store
